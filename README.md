@@ -42,9 +42,7 @@ Features include:
 4. Generate visualizations
 5. Analyze business insights
 6. Draw conclusions
-
 ---
-
 
 ## Project Visualizations
 
