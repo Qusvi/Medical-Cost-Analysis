@@ -45,7 +45,6 @@ Features include:
 
 ---
 
-## Visualizations
 
 ## Project Visualizations
 
