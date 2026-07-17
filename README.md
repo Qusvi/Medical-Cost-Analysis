@@ -47,14 +47,41 @@ Features include:
 
 ## Visualizations
 
-This project includes:
+## Project Visualizations
 
-- Histogram
-- Scatter Plot
-- Box Plot
-- Pie Chart
-- Heatmap
-- Bar Chart
+### Age Distribution
+
+![Age Distribution](images/histogram.png)
+
+---
+
+### Age vs Medical Charges
+
+![Scatter Plot](images/scatter_plot.png)
+
+---
+
+### Distribution of Medical Charges
+
+![Box Plot](images/box_plot.png)
+
+---
+
+### Smoker Distribution
+
+![Pie Chart](images/pie_chart.png)
+
+---
+
+### Correlation Matrix
+
+![Heatmap](images/heatmap.png)
+
+---
+
+### Average Medical Charges by Smoking Status
+
+![Bar Chart](images/bar_chart.png)
 
 ---
 
