@@ -1,5 +1,11 @@
 # Medical Cost Analysis System
 
+## Live Demo
+
+🌐 Click here to open the web application:
+
+https://medical-cost-analysis-n9ya8jqvxyfvuk5brynd4l.streamlit.app/
+
 ## Project Overview
 
 The Medical Cost Analysis System is a data analysis project developed using Python. The goal of this project is to analyze medical insurance data and identify the key factors that influence medical charges.
